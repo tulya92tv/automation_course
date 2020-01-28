@@ -1,3 +1,13 @@
 {
-  "projectId": "m2gqw1"
+  "projectId": "m2gqw1",
+  "viewportWidth": 1280,
+  "viewportHeight": 1024,
+  "pageLoadTimeout": 25000,
+  "defaultCommandTimeout": 25000,
+  "video": false,
+  "baseUrl": "https://reqres.in",
+  "integrationFolder": "cypress/all-tests",
+  "env": {
+    "googleUrl": "https://store.google.com/us"
+  }
 }
