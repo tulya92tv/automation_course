@@ -1,0 +1,9 @@
+{
+  "base": "USD",
+  "date": "2019-12-31",
+  "rates": [
+    {"shortName": "CAD", "rate": 1.30058},
+    {"shortName": "AUD", "rate": 1.42381},
+    {"shortName": "EUR", "rate": 0.890167},
+    {"shortName": "GBP", "rate": 0.756932}
+  ]}
